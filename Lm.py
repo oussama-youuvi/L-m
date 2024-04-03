@@ -407,22 +407,26 @@ def follow(ses,coki):
 logo = """
                             
 \033[1;32m
-88         8b    d8 
-88         88b  d88 
-88  .o     88YbdP88 
-88ood8     88 YY 88 
-
+  
+ $$$$$$\   $$$$$$\  $$$$$$$\ $$$$$$$$\ $$$$$$\ 
+$$  __$$\ $$  __$$\ $$  __$$\\__$$  __|\_$$  _|
+$$ /  \__|$$ /  $$ |$$ |  $$ |  $$ |     $$ |  
+\$$$$$$\  $$$$$$$$ |$$$$$$$\ |  $$ |     $$ |  
+ \____$$\ $$  __$$ |$$  __$$\   $$ |     $$ |  
+$$\   $$ |$$ |  $$ |$$ |  $$ |  $$ |     $$ |  
+\$$$$$$  |$$ |  $$ |$$$$$$$  |  $$ |   $$$$$$\ 
+ \______/ \__|  \__|\_______/   \__|   \______|
                                                
                                                                                                                                                                                                                                                                                      
  \x1b[1;97m                        \033[0;91m Version : 1.1
  \x1b[1;97m---------------------------------------------------
- \33[1;41m Tool Created by oussama _ youvi \33[0m
+ \33[1;41m Tool Created by oussama \33[0m
  \x1b[1;97m---------------------------------------------------
  \x1b[1;97m[+] ClonerIT  :  Facebook ID'Z Cloning Tool
  \x1b[1;97m[+] Author    : MOHAMED OUSSAMA 
- \x1b[1;97m[+] Developer :  OUSSAMA XD
+ \x1b[1;97m[+] Developer :  OUSSAMA SABTI
  \x1b[1;97m[+] TEAM     :   OUSSAMA &  YOUVI
- \x1b[1;97m[+] Contact.    :  💔
+ \x1b[1;97m[+] Contact.    :  💔🇩🇿
  \x1b[1;97m---------------------------------------------------
 
 """
@@ -1159,7 +1163,7 @@ class Main:
   "Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0",
   "Mozilla/5.0 (X11; Linux x86_64; rv:33.0) Gecko/20100101 Firefox/33.0",
   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36",
-  "Mozilla/5.0 (X11; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0",
+  "Mozilla/5.0 (X11; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0"
   "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:10.0) Gecko/20100101 Firefox/10.0",
   "Mozilla/5.0 (X11; Linux x86_64; rv:37.0) Gecko/20100101 Firefox/37.0",
   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/79.0.3945.0 Safari/537.36",
@@ -1347,7 +1351,7 @@ def main_apv():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrahsan-cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://github.com/HExXXD/OUSSAMA-/blob/main/A.txt").text
+	r1=requests.get("https://github.com/oussama-youuvi/2009-paid/blob/main/2009paid.txt").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
@@ -1374,10 +1378,8 @@ def main_apv():
 		input(" Press Enter To Send Key")
 		time.sleep(3.5)
 		tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+key1
-		os.system('am start https://wa.me/+213793760896?text=' + tks)
-		Main()
-Main()
+		os.system('am start https://wa.me/?text=' + tks)
 
-
-	
+	main_apv()    
+main_apv()
 	
