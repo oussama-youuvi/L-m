@@ -1,12 +1,12 @@
-##   ClonerIT   :       Facebook ID'Z Cloning Tool
-##   Author     :       OUSSAMA SABTI
-##   Developer  :       OUSSAMA SABTI
+##   ClonerIT   :       Facebook MA'Z Cloning Tool
+##   Author     :       reda elhassyni
+##   Developer  :       reda elhassyni
 ##   Visit      :       
 ##
 ##   Find us    :
-##   Facebook   :    https://www.facebook.com/profile.php?id=100060263003452
+##   Facebook   :    https://web.facebook.com/3lach.mkobini.atbi?locale=ar_AR
 ##   WebSite    :    No WhatsApp account 
-##   Copyright  :     (oussama.sabti)2024
+##   Copyright  :     redaelhassyni
 
 W = '\033[97;1m'
 R = '\033[91;1m'
@@ -129,9 +129,7 @@ def login():
 		Public()
 def jalan(z):
 	for e in z + '\n':
-		sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
-############### #LOGO############## ## 
- 
+		sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01) 
 # LOGIN
 def Public():
 	clear()
@@ -416,12 +414,12 @@ logo = """
                                                                                                                                                                                                                                                                                      
  \x1b[1;97m                        \033[0;91m Version : 1.1
  \x1b[1;97m---------------------------------------------------
- \33[1;41m Tool Created by oussama _ youvi \33[0m
+ \33[1;41m Tool Created by reda elhassyni \33[0m
  \x1b[1;97m---------------------------------------------------
  \x1b[1;97m[+] ClonerIT  :  Facebook ID'Z Cloning Tool
- \x1b[1;97m[+] Author    : MOHAMED OUSSAMA 
- \x1b[1;97m[+] Developer :  OUSSAMA XD
- \x1b[1;97m[+] TEAM     :   OUSSAMA &  YOUVI
+ \x1b[1;97m[+] Author    : reda hexx
+ \x1b[1;97m[+] Developer :  reda elhassyni
+ \x1b[1;97m[+] TEAM     :   reda elhassyni
  \x1b[1;97m[+] Contact.    :  💔
  \x1b[1;97m---------------------------------------------------
 
@@ -1374,7 +1372,7 @@ def main_apv():
 		input(" Press Enter To Send Key")
 		time.sleep(3.5)
 		tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+key1
-		os.system('am start https://wa.me/+213793760896?text=' + tks)
+		os.system('reda hexxx?text=' + tks)
 		Main()
 Main()
 
